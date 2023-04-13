@@ -1,6 +1,6 @@
 # This script will be provide both the popular web browsers and malicious site data. It  will take a few
 # minutes to populate if ran but it runs a successful report. Out of the 129,952 lines it was able to generate
-#11489 lines of possible malicious traffic.
+#11489 lines of possible malicious traffic. 
 
 import re
 from collections import Counter
